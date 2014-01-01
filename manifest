@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: ZIP manipulator for Titanium (3.2+)
+author: Ryutaro Miyashita
+license: MIT
+copyright: Copyright (c) 2014 by Ryutaro Miyashita
+
+
+# these should not be edited
+name: TiSSZipArchive
+moduleid: net.imthinker.ti.ssziparchive
+guid: 0569ee0d-ebd6-4675-b3f3-a23c852423ea
+platform: iphone
+minsdk: 3.2.0.GA
