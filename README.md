@@ -17,7 +17,7 @@ See `example/app.js`
 
 ## Sample code
 
-```
+```javascript
 (function () {
     'use strict';
     var win = Ti.UI.iOS.createNavigationWindow({
